@@ -27,7 +27,7 @@ ExperimentLogger/
 ## 🛠️ Installation  
 1. **Clone the repository**:  
    ```bash
-   git clone [your-repo-url]  
+   git clone https://github.com/sepehr-amooei/ExperimentLogger.git
    cd ExperimentLogger  
    ```
 
