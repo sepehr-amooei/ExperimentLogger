@@ -33,6 +33,6 @@ export_excel(csv_data, "output/mail_cat.xlsx")
 df = load_csv_as_df("output/mail_cat.csv")
 print(df)
 
-# 6. Plot
+# 6. Plots
 plot_weight_changes(Labels, Duration, Zeros, W_start, W_end)
 plot_weight_loss_bubble_chart(Labels, Age, Duration,W_start, W_end)
